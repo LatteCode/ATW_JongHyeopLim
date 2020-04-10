@@ -44,8 +44,8 @@ anubspider@gmail.com
 저희 팀은 4명입니다.   
 (We are four.)   
 
-한 잔 마시겠습니까?   
-(Wanna a drink?)   
+달콤하게 한 잔 마시겠습니까?   
+(Wanna a sweet drink?)   
 
 ![coffee](https://user-images.githubusercontent.com/50573908/79011584-483a0580-7b9f-11ea-91f4-f670eac61ce5.jpg)
 
