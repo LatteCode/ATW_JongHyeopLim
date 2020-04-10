@@ -32,15 +32,21 @@ anubspider@gmail.com
 왜 하필 개미죠?(Why are your character an ant anyway?)
 -------------
 ...ALL SHALL SERVE THE MIGHTY QUEEN!   
+
 장난이고요, 그저 개미를 키우고 있습니다.   
 (It's just a kidding. I'm keeping ants.)   
 
 팀 소개(Team Introduction)
 =============
-수업의 일환으로써, 저는 "라떼 코드"라는 팀에 속해 있습니다.
-(As a part of my course, I'm in a team "Latte Code".)
+수업의 일환으로써, 저는 "라떼 코드"라는 팀에 속해 있습니다.   
+(As a part of my course, I'm in a team "Latte Code".)   
 
-저희 팀은 4명입니다.
-(We are four.)
+저희 팀은 4명입니다.   
+(We are four.)   
+
+한 잔 마시겠습니까?   
+(Wanna a drink?)   
+
+![coffee](https://user-images.githubusercontent.com/50573908/79011584-483a0580-7b9f-11ea-91f4-f670eac61ce5.jpg)
 
 
